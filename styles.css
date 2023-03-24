@@ -1,0 +1,30 @@
+.fotoAriela {
+  width: 100%;
+
+}
+
+
+.redes{
+    display: block;
+}
+.iconos {
+    max-width: 30px;
+   
+}
+
+.card{
+  margin: auto;
+}
+
+
+header {
+  margin-bottom: 20px;
+}
+
+.contenido{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+
